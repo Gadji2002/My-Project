@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{306B9622-6474-0D19-83D7-B08F35872B12}</ProjectGuid>
+    <ProjectGuid>{63B10F76-CA03-BE35-FA50-B39BDD32FA29}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Menu\DebugScript.cs" />
      <Compile Include="Assets\Menu\Global.cs" />
      <Compile Include="Assets\Menu\Menu.cs" />
  <Reference Include="UnityEngine.UI">
