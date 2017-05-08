@@ -49,6 +49,28 @@
      <Compile Include="Assets\Menu\DebugScript.cs" />
      <Compile Include="Assets\Menu\Global.cs" />
      <Compile Include="Assets\Menu\Menu.cs" />
+     <Compile Include="Assets\My game\Scripts\AI\Action.cs" />
+     <Compile Include="Assets\My game\Scripts\AI\ActiveStateDecision.cs" />
+     <Compile Include="Assets\My game\Scripts\AI\AttackAction.cs" />
+     <Compile Include="Assets\My game\Scripts\AI\ChaseAction.cs" />
+     <Compile Include="Assets\My game\Scripts\AI\Decision.cs" />
+     <Compile Include="Assets\My game\Scripts\AI\EnemyStats.cs" />
+     <Compile Include="Assets\My game\Scripts\AI\LookDecision.cs" />
+     <Compile Include="Assets\My game\Scripts\AI\PatrolAction.cs" />
+     <Compile Include="Assets\My game\Scripts\AI\State.cs" />
+     <Compile Include="Assets\My game\Scripts\AI\StateController.cs" />
+     <Compile Include="Assets\My game\Scripts\AI\Transition.cs" />
+     <Compile Include="Assets\My game\Scripts\Camera\Camera.cs" />
+     <Compile Include="Assets\My game\Scripts\Camera\CameraMove.cs" />
+     <Compile Include="Assets\My game\Scripts\Ship\Destroy.cs" />
+     <Compile Include="Assets\My game\Scripts\Ship\ShipHealth.cs" />
+     <Compile Include="Assets\My game\Scripts\Ship\ShipMotion.cs" />
+     <Compile Include="Assets\My game\Scripts\Ship\ShipShooting.cs" />
+     <Compile Include="Assets\My game\Scripts\Terrain\Clouds.cs" />
+     <Compile Include="Assets\My game\Scripts\Treasures\TreasureScript.cs" />
+     <Compile Include="Assets\My game\Scripts\Treasures\TreasureSpawner.cs" />
+     <Compile Include="Assets\My game\Scripts\UI\UIDirectionScript.cs" />
+     <Compile Include="Assets\My game\Scripts\sHELL\ShellExplosion.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
